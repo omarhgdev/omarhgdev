@@ -34,7 +34,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -53,7 +52,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -71,7 +69,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -89,7 +86,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -107,7 +103,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -125,7 +120,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -161,7 +155,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -214,7 +207,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -232,7 +224,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
@@ -255,7 +246,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
-### 🌐 CardiopreparadoBlondina
+### 🌐 Cardiopreparado
 
 <img src="/screenshots/Cardiopreparado.png" alt="Cardiopreparado" width="100%">
 
@@ -273,7 +264,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
-### 🌐 BlondinaContainerland
+### 🌐 Blondina
 
 <img src="/screenshots/Blondina.png" alt="Blondina" width="100%">
 
@@ -309,7 +300,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
-### 🌐 FITSTORELimpiaLimpio
+### 🌐 FITSTORE
 
 <img src="/screenshots/Fit4Life.png" alt="FITSTORE" width="100%">
 
@@ -345,7 +336,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
-### 🌐 Hippocampus ResortMaxilofacialSantiago
+### 🌐 Hippocampus Resort
 
 <img src="/screenshots/HippocampusResort.png" alt="Hippocampus Resort" width="100%">
 
@@ -358,7 +349,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
   <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
