@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 🌐 Brimut
 
-<img src="/screenshots/Brimut.png" alt="Crónicas Digitales" width="100%">
+<img src="/screenshots/Brimut.png" alt="Brimut" width="100%">
 
 **🌍 Sitio web:** [brimut.cl](https://brimut.cl)  
 **🧾 Descripción:**  
@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 🌐 IKONO
 
-<img src="/screenshots/ikono.png" alt="Crónicas Digitales" width="100%">
+<img src="/screenshots/ikono.png" alt="IKONO" width="100%">
 
 **🌍 Sitio web:** [ikono.cl](https://ikono.cl)  
 **🧾 Descripción:**  
@@ -97,9 +97,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 🌐 Adisep
 
-<img src="/screenshots/Adisep.png" alt="Crónicas Digitales" width="100%">
+<img src="/screenshots/Adisep.png" alt="Adisep" width="100%">
 
 **🌍 Sitio web:** [adisep.cl](https://adisep.cl)  
+**🧾 Descripción:**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+</p>
+
+### 🌐 La Caverna
+
+<img src="/screenshots/Caverna.png" alt="La Caverna" width="100%">
+
+**🌍 Sitio web:** [lacavernachile.cl](https://lacavernachile.cl)  
 **🧾 Descripción:**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
