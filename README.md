@@ -21,11 +21,11 @@ Hola, soy **Omar Hurtado**, desarrollador/a web con enfoque en experiencia de us
 <br>
 <h2 align="left">📌 Sitios Web Realizados</h2>
 
-### 🌐 Sitio 1
+### 🌐 Universidad Católica Del Norte - FICG
 
-<img src="screenshots/ecoverde.png" alt="sitio1" width="100%">
+<img src="screenshots/FICG.png" alt="Universidad Católica Del Norte - FICG" width="100%">
 
-**🌍 Sitio web:** [ecoverde.cl](https://sitio1.cl)  
+**🌍 Sitio web:** [ficg.ucn.cl](https://ficg.ucn.cl)  
 **🧾 Descripción:**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
