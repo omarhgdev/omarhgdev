@@ -10,7 +10,7 @@
 </p>
 
 
-## 🧩 Sobre mí
+## 📌 Sobre mí
 
 Hola, soy **Omar Hurtado**, desarrollador/a web con enfoque en experiencia de usuario, diseño visual y optimización SEO. Este portafolio presenta proyectos reales en los que he trabajado, reflejando mi estilo, técnica y compromiso con cada cliente.
 
@@ -95,8 +95,7 @@ Proyecto para BRIMUT SpA, empresa de transporte y arriendo de vehículos. El des
 
 **🌍 Sitio web:** [ikono.cl](https://ikono.cl)  
 **🧾 Descripción:**  
-Proyecto para Ikono, empresa especializada en soluciones audiovisuales y de comunicación digital. Construí el sitio web enfocándome en una estructura clara y moderna que facilite la presentación de sus servicios y portafolio, asegurando una buena experiencia de usuario y optimización para dispositivos móviles.
-
+Proyecto para Ikono, una oficina de arquitectura fundada en 2006 que ofrece soluciones integrales en proyectos industriales, habitacionales y sociales.
 <br>
 
 <p>
