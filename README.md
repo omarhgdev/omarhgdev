@@ -14,6 +14,8 @@
 
 Hola, soy **Omar Hurtado**, desarrollador/a web con enfoque en experiencia de usuario, diseño visual y optimización SEO. Este portafolio presenta proyectos reales en los que he trabajado, reflejando mi estilo, técnica y compromiso con cada cliente.
 
+Inicié mis estudios cursando la carrera de Técnico en Telecomunicaciones en 2018. Posteriormente, desde 2019 a 2022 estudié Ingeniería en Informática en el Instituto Profesional DUOC UC.
+
 > ✨ *“Diseñar un sitio web no solo es crear una página bonita, es construir una experiencia que conecte con las personas.”*
 <br>
 <h2 align="left">📌 Sitios Web Realizados</h2>
