@@ -180,7 +180,7 @@ Proyecto para Valintec 4.0, empresa chilena especializada en soluciones industri
 
 **🌍 Sitio web:** [pestañamania.cl](https://pestañamania.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para Pestañamania, tienda online especializada en productos de belleza y cuidado personal, con énfasis en extensiones y tratamientos de pestañas.
 
 <br>
 
@@ -198,8 +198,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [transportesylogistica.cl](https://transportesylogistica.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Transportes y Logística, empresa dedicada a servicios de transporte de carga y logística en Chile.
 <br>
 
 <p>
@@ -215,7 +214,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [https://tornerialidmar.cl](https://tornerialidmar.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para Tornería Lidmar, empresa especializada en mecanizado y fabricación de piezas industriales.
 
 <br>
 
@@ -232,8 +231,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [rpichile.cl](https://rpichile.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para RPI Chile, empresa especializada en la venta y arriendo de equipos industriales para soldaduras plásticas, fitting de HDPE y herramientas para levantamiento de tubos lisos.
 <br>
 
 <p>
@@ -250,7 +248,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [cardiopreparado.cl](https://cardiopreparado.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para Cardiopreparado, empresa chilena dedicada a la venta y capacitación en uso de desfibriladores automáticos (DEA) y equipos de emergencia.
 
 <br>
 
@@ -268,8 +266,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [blondina.cl](https://blondina.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Blondina, tienda online de moda femenina que ofrece ropa y accesorios modernos.
 <br>
 
 <p>
@@ -286,8 +283,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [containerland.cl](https://containerland.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Containerland, empresa chilena especializada en la fabricación y venta de contenedores modulares de acero galvanizado.
 <br>
 
 <p>
