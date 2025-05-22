@@ -146,7 +146,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [trcmaquinas.cl](https://trcmaquinas.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para TRC Máquinas, una maestranza emergente ubicada en Antofagasta, especializada en reparaciones mecánicas e hidráulicas, mecanizado de componentes y fabricación de estructuras metálicas.
 
 <br>
 
@@ -163,7 +163,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [valintec40.com](valintec40.com)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para Valintec 4.0, empresa chilena especializada en soluciones industriales avanzadas. La plataforma destaca su oferta de válvulas, actuadores, instrumentación y servicios de ingeniería para sectores como minería, celulosa, energía y tratamiento de aguas.
 
 <br>
 
