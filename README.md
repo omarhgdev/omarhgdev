@@ -185,10 +185,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 ### 🌐 Pestañamania
-
 <img src="/screenshots/Pestaniamania.png" alt="Pestañamania" width="100%">
 
 **🌍 Sitio web:** [pestañamania.cl](https://pestañamania.cl)  
+**🧾 Descripción:**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+</p>
+
+### 🌐 Transportes y Logística
+
+<img src="/screenshots/TransportesyLogistica.png" alt="Transportes y Logística" width="100%">
+
+**🌍 Sitio web:** [transportesylogistica.cl](https://transportesylogistica.cl)  
 **🧾 Descripción:**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
