@@ -42,9 +42,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 🌐 Doctorado en Ingeniería Sustentable
 
-<img src="screenshots/gruponorte.png" alt="Doctorado en Ingeniería Sustentable" width="100%">
+<img src="screenshots/DIS.png" alt="Doctorado en Ingeniería Sustentable" width="100%">
 
-**🌍 Sitio web:** [ficg.ucn.cl/doctorado-en-ingenieria-sustentable/](https://ficg.ucn.cl/doctorado-en-ingenieria-sustentable/)  
+**🌍 Sitio web:** [ficg.ucn.cl/doctorado-en-ingenieria-sustentable](https://ficg.ucn.cl/doctorado-en-ingenieria-sustentable/)  
 **🧾 Descripción:**  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
