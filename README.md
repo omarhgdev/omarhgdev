@@ -1,9 +1,6 @@
 <h1 align="center">🌐 Portafolio - Omar Hurtado Gajardo 🌐</h1>
 
-<p align="center">
-  <b>Desarrollo web moderno, funcional y con propósito</b><br>
-  <i>Una colección curada de sitios que he diseñado y desarrollado</i>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white">
