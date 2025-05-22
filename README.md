@@ -300,8 +300,7 @@ Proyecto para Containerland, empresa chilena especializada en la fabricación y 
 
 **🌍 Sitio web:** [fitstore.cl](https://fitstore.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para FitStore, Tienda especializada en suplementos deportivos, nutrición y accesorios para fitness, comprometida con apoyar un estilo de vida saludable y activo mediante productos de calidad.
 <br>
 
 <p>
@@ -318,8 +317,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [limpialimpio.cl](https://limpialimpio.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Limpia Limpio, Empresa chilena dedicada a la venta de productos de limpieza y aseo, ofreciendo una amplia gama de soluciones para hogares, empresas e industrias que buscan calidad y eficiencia.
 <br>
 
 <p>
@@ -335,8 +333,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [hippocampus.cl](https://www.hippocampus.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Hippocampus Resort, Hippocampus Resort es un exclusivo complejo turístico ubicado frente a una de las playas de Concón, en la región de Valparaíso.
 <br>
 
 <p>
@@ -352,8 +349,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [maxilosantiago.cl](https://maxilosantiago.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Maxilofacial Santiago, clínica especializada en cirugía bucal y maxilofacial, ubicada en Providencia, Santiago.
 <br>
 
 <p>
@@ -370,8 +366,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [megacorpltda.cl](https://megacorpltda.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
+Proyecto para Megacor Ltda, empresa chilena dedicada a la comercialización de productos industriales, con especialización en correas industriales.
 <br>
 
 <p>
