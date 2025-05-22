@@ -21,7 +21,7 @@ Hola, soy **Omar Hurtado**, desarrollador/a web con enfoque en experiencia de us
 <br>
 <h2 align="left">📌 Sitios Web Realizados</h2>
 
-### 🛒 Sitio 1
+### 🌐 Sitio 1
 
 <img src="screenshots/ecoverde.png" alt="sitio1" width="100%">
 
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 
-### 🏢 Doctorado en Ingeniería Sustentable
+### 🌐 Doctorado en Ingeniería Sustentable
 
 <img src="screenshots/gruponorte.png" alt="Doctorado en Ingeniería Sustentable" width="100%">
 
@@ -59,9 +59,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 
-### 📝 Brimut
+### 🌐 Brimut
 
-<img src="screenshots/cronicasdigitales.png" alt="Crónicas Digitales" width="100%">
+<img src="/screenshots/Brimut.png" alt="Crónicas Digitales" width="100%">
 
 **🌍 Sitio web:** [brimut.cl](https://brimut.cl)  
 **🧾 Descripción:**  
