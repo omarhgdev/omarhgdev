@@ -26,7 +26,7 @@ Inicié mis estudios cursando la carrera de Técnico en Telecomunicaciones en 20
 
 **🌍 Sitio web:** [ficg.ucn.cl](https://ficg.ucn.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para la Facultad de Ingeniería y Ciencias Geológicas de la Universidad Católica del Norte. El objetivo fue mostrar de forma clara y accesible su oferta académica, proyectos de investigación y vínculo con la industria, destacando su rol como referente en ingeniería y geociencias en el norte de Chile.
 
 <br>
 
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [ficg.ucn.cl/doctorado-en-ingenieria-sustentable](https://ficg.ucn.cl/doctorado-en-ingenieria-sustentable/)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para el Doctorado en Ingeniería Sustentable de la Universidad Católica del Norte, enfocándome en comunicar de forma clara y atractiva los objetivos del programa, su enfoque interdisciplinario y su compromiso con la sostenibilidad. 
 
 <br>
 
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [armmic.cl](https://armmic.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para el Congreso Internacional de Investigación Aplicada en Minería y Metalurgia (ARMMIC 25), organizado por la Universidad Católica del Norte. El sitio presenta de manera clara y accesible la información del evento, incluyendo fechas, programa, ponentes y proceso de inscripción, destacando su enfoque en sostenibilidad, innovación y colaboración entre academia e industria en el ámbito minero-metalúrgico.
 
 <br>
 
@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [brimut.cl](https://brimut.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para BRIMUT SpA, empresa de transporte y arriendo de vehículos. El desarrollo se centró en ofrecer un sitio funcional, rápido y fácil de navegar, orientado a clientes que buscan soluciones de transporte confiables.
 
 <br>
 
@@ -95,7 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [ikono.cl](https://ikono.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para Ikono, empresa especializada en soluciones audiovisuales y de comunicación digital. Construí el sitio web enfocándome en una estructura clara y moderna que facilite la presentación de sus servicios y portafolio, asegurando una buena experiencia de usuario y optimización para dispositivos móviles.
 
 <br>
 
@@ -112,7 +112,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **🌍 Sitio web:** [adisep.cl](https://adisep.cl)  
 **🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Proyecto para ADISEP, empresa chilena especializada en seguridad privada. El sitio presenta sus servicios de forma clara y profesional, incluyendo guardias de seguridad, vigilancia móvil, asesorías personalizadas y capacitación OS10. 
 
 <br>
 
