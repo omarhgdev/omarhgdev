@@ -409,6 +409,22 @@ Proyecto para Comercial Ocaranza. Portal de una empresa familiar con 40+ años
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
+### 🌐 Andaur & Benacho
+<img src="/screenshots/Andaur-Benacho.png" alt="Andaur y Benacho" width="100%">
+
+**🌍 Sitio web:** [https://comercialandaurybenacho.cl](https://comercialandaurybenacho.cl)  
+**🧾 Descripción:**  
+Proyecto para Andaur y Benacho Agro Comercial Limitada, una empresa chilena con sede en Calama (Región de Antofagasta) que combina actividades de comercio de alimentos y transporte de carga.
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+</p>
+
 
 ## 🤝 ¿Hablamos?
 
