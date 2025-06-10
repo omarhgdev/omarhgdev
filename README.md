@@ -382,7 +382,7 @@ Proyecto para Megacor Ltda, empresa chilena dedicada a la comercialización de p
 
 **🌍 Sitio web:** [conjuntochile.cl](https://conjuntochile.cl)  
 **🧾 Descripción:**  
-Lorem Ipsum.
+Proyecto para Conjunto Chile. Una consultora estratégica chilena, especializada en ofrecer servicios integrales para el desarrollo sostenible de proyectos.
 <br>
 
 <p>
@@ -398,7 +398,7 @@ Lorem Ipsum.
 
 **🌍 Sitio web:** [comercialocaranza.cl](https://comercialocaranza.cl)  
 **🧾 Descripción:**  
-Lorem Ipsum.
+Proyecto para Comercial Ocaranza. Portal de una empresa familiar con 40+ años en Coquimbo, Chile, especializada en equipos marítimos, buceo y maquinaria de fuerza.
 <br>
 
 <p>
