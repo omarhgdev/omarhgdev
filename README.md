@@ -37,6 +37,39 @@ Proyecto para la Facultad de Ingeniería y Ciencias Geológicas de la Universida
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
+### 🌐 UMCE (Universidad Metropolitana de Ciencias de la Educación)
+
+<img src="screenshots/UMCE.png" alt="Universidad Metropolitana de Ciencias de la Educación" width="100%">
+
+**🌍 Sitio web:** [ficg.ucn.cl/doctorado-en-ingenieria-sustentable](https://www.umce.cl)  
+**🧾 Descripción:**  
+Proyecto para la UMCE. Consistió en apoyo web, mantención general del sitio, incluyendo SEO y otras incidencias.
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+</p>
+
+### 🌐 CUECH (Consorcio de Universidades del Estado de Chile)
+
+<img src="screenshots/CUECH.png" alt="Consorcio de Universidades del Estado de Chile" width="100%">
+
+**🌍 Sitio web:** [No aplica URL](#)  
+**🧾 Descripción:**  
+Proyecto para la CUECH. Consistió en una memorial digital para el consorcio.
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+</p>
 
 ### 🌐 Doctorado en Ingeniería Sustentable
 
