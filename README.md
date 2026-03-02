@@ -41,7 +41,7 @@ Proyecto para la Facultad de Ingeniería y Ciencias Geológicas de la Universida
 
 <img src="screenshots/UMCE.png" alt="Universidad Metropolitana de Ciencias de la Educación" width="100%">
 
-**🌍 Sitio web:** [ficg.ucn.cl/doctorado-en-ingenieria-sustentable](https://www.umce.cl)  
+**🌍 Sitio web:** [umce.cl](https://www.umce.cl)  
 **🧾 Descripción:**  
 Proyecto para la UMCE. Consistió en apoyo web, mantención general del sitio, incluyendo SEO y otras incidencias.
 
