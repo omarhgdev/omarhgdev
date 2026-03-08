@@ -42,6 +42,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/Soporte-%23333333.svg?style=for-the-badge&logo=helpdesk&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="screenshots/UCN.png" alt="UCN" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -54,6 +55,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <h3>🌐 <a href="https://www.umce.cl">Universidad Metropolitana de Ciencias de la Educación (UMCE)</a></h3>
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white">
   <img src="https://img.shields.io/badge/Soporte-%23333333.svg?style=for-the-badge&logo=helpdesk&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
@@ -158,6 +160,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Caverna.png" alt="La Caverna" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -184,6 +187,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Valintec.png" alt="Valintec40" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -197,6 +201,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Pestaniamania.png" alt="Pestañamania" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -249,6 +254,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Cardiopreparado.png" alt="Cardiopreparado" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -262,6 +268,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Blondina.png" alt="Blondina" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -275,6 +282,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Containerland.png" alt="Containerland" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -288,6 +296,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Fit4Life.png" alt="FITSTORE" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -301,6 +310,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/LimpiaLimpio.png" alt="LimpiaLimpio" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -366,6 +376,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Ocaranza.png" alt="Comercial Ocaranza" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
@@ -379,6 +390,7 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Andaur-Benacho.png" alt="Andaur y Benacho" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
