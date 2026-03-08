@@ -105,6 +105,23 @@ Proyecto para el Congreso Internacional de Investigación Aplicada en Minería y
   <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
 </p>
 
+### 🌐 TECEL-TA
+
+<img src="screenshots/tecelta.png" alt="Consorcio de Universidades del Estado de Chile" width="100%">
+
+**🌍 Sitio web:** [tecel-ta.cl]([https://armmic.cl](https://tecel-ta.cl))  
+**🧾 Descripción:**  
+Proyecto para la TECEL-TA. Empresa dedicada a brindar servicios y soluciones eléctricas orientadas principalmente a la industria minera y al sector industrial
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
+  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+</p>
+
 ### 🌐 Brimut
 
 <img src="/screenshots/Brimut.png" alt="Brimut" width="100%">
