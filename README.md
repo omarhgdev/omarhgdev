@@ -147,7 +147,8 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 <h3>🌐 <a href="https://adisep.cl">Adisep</a></h3>
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/Seguridad-%23333333.svg?style=for-the-badge&logo=lock&logoColor=white">
+  <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
 </div>
 <img src="/screenshots/Adisep.png" alt="Adisep" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
 <div style="line-height: 1.4;">
