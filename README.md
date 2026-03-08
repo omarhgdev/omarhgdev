@@ -1,492 +1,367 @@
-<h1 align="center">🌐 Portafolio - Omar Hurtado Gajardo 🌐</h1>
+<div align="center">
+  <h1>Omar Hurtado Gajardo</h1>
+  <h2>Desarrollador Web | UI/UX | Optimización SEO</h2>
+</div>
 
+<br>
 
+## 👨‍💻 Sobre mí
 
-<p align="center">
+Hola, soy **Omar Hurtado**, desarrollador web radicado en Chile. Me especializo en la creación de plataformas digitales escalables, funcionales y orientadas a la experiencia de usuario. 
+
+Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informática** me permite abordar los proyectos desde el diseño visual hasta la optimización técnica para SEO y rendimiento (WPO).
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white">
-  <img src="https://img.shields.io/badge/Responsive_Design-informational?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-
-## 📌 Sobre mí
-
-Hola, soy **Omar Hurtado**, desarrollador web con enfoque en experiencia de usuario, diseño visual y optimización SEO. Este portafolio presenta proyectos reales en los que he trabajado, reflejando mi estilo, técnica y compromiso con cada cliente.
-
-Inicié mis estudios cursando la carrera de Técnico en Telecomunicaciones en 2018. Posteriormente, desde 2019 a 2022 estudié Ingeniería en Informática en el Instituto Profesional DUOC UC.
-
-> ✨ *“Diseñar un sitio web no solo es crear una página bonita, es construir una experiencia que conecte con las personas.”*
-<br>
-<h2 align="left">📌 Sitios Web Realizados</h2>
-
-### 🌐 Universidad Católica Del Norte - UCN
-
-<img src="screenshots/UCN.png" alt="Universidad Católica Del Norte" width="100%">
-
-**🌍 Sitio web:** [ficg.ucn.cl](https://ficg.ucn.cl)  
-**🧾 Descripción:**  
-Proyecto para la Facultad de Ingeniería y Ciencias Geológicas de la Universidad Católica del Norte. El objetivo fue mostrar de forma clara y accesible su oferta académica, proyectos de investigación y vínculo con la industria, destacando su rol como referente en ingeniería y geociencias en el norte de Chile.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white">
+</div>
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 UMCE (Universidad Metropolitana de Ciencias de la Educación)
-
-<img src="screenshots/UMCE.png" alt="Universidad Metropolitana de Ciencias de la Educación" width="100%">
-
-**🌍 Sitio web:** [umce.cl](https://www.umce.cl)  
-**🧾 Descripción:**  
-Proyecto para la UMCE. Consistió en apoyo web, mantención general del sitio, incluyendo SEO y otras incidencias.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 CUECH (Consorcio de Universidades del Estado de Chile)
-
-<img src="screenshots/CUECH.png" alt="Consorcio de Universidades del Estado de Chile" width="100%">
-
-**🌍 Sitio web:** [No aplica URL](#)  
-**🧾 Descripción:**  
-Proyecto para la CUECH. Consistió en una memorial digital para el consorcio.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Doctorado en Ingeniería Sustentable
-
-<img src="screenshots/DIS.png" alt="Doctorado en Ingeniería Sustentable" width="100%">
-
-**🌍 Sitio web:** [ficg.ucn.cl/doctorado-en-ingenieria-sustentable](https://ficg.ucn.cl/doctorado-en-ingenieria-sustentable/)  
-**🧾 Descripción:**  
-Proyecto para el Doctorado en Ingeniería Sustentable de la Universidad Católica del Norte, enfocándome en comunicar de forma clara y atractiva los objetivos del programa, su enfoque interdisciplinario y su compromiso con la sostenibilidad. 
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Applied Research in Mining and Metallurgy International Congress - ARMMIC
-
-<img src="screenshots/ARMMIC.png" alt="Applied Research in Mining and Metallurgy International Congress" width="100%">
-
-**🌍 Sitio web:** [armmic.cl](https://armmic.cl)  
-**🧾 Descripción:**  
-Proyecto para el Congreso Internacional de Investigación Aplicada en Minería y Metalurgia (ARMMIC 25), organizado por la Universidad Católica del Norte. El sitio presenta de manera clara y accesible la información del evento, incluyendo fechas, programa, ponentes y proceso de inscripción, destacando su enfoque en sostenibilidad, innovación y colaboración entre academia e industria en el ámbito minero-metalúrgico.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 TECEL-TA
-
-<img src="screenshots/tecelta.png" alt="Consorcio de Universidades del Estado de Chile" width="100%">
-
-**🌍 Sitio web:** [tecel-ta.cl]([https://armmic.cl](https://tecel-ta.cl))  
-**🧾 Descripción:**  
-Proyecto para la TECEL-TA. Empresa dedicada a brindar servicios y soluciones eléctricas orientadas principalmente a la industria minera y al sector industrial
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Brimut
-
-<img src="/screenshots/Brimut.png" alt="Brimut" width="100%">
-
-**🌍 Sitio web:** [brimut.cl](https://brimut.cl)  
-**🧾 Descripción:**  
-Proyecto para BRIMUT SpA, empresa de transporte y arriendo de vehículos. El desarrollo se centró en ofrecer un sitio funcional, rápido y fácil de navegar, orientado a clientes que buscan soluciones de transporte confiables.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 IKONO
-
-<img src="/screenshots/ikono.png" alt="IKONO" width="100%">
-
-**🌍 Sitio web:** [ikono.cl](https://ikono.cl)  
-**🧾 Descripción:**  
-Proyecto para Ikono, una oficina de arquitectura fundada en 2006 que ofrece soluciones integrales en proyectos industriales, habitacionales y sociales.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Adisep
-
-<img src="/screenshots/Adisep.png" alt="Adisep" width="100%">
-
-**🌍 Sitio web:** [adisep.cl](https://adisep.cl)  
-**🧾 Descripción:**  
-Proyecto para ADISEP, empresa chilena especializada en seguridad privada. El sitio presenta sus servicios de forma clara y profesional, incluyendo guardias de seguridad, vigilancia móvil, asesorías personalizadas y capacitación OS10. 
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 La Caverna
-
-<img src="/screenshots/Caverna.png" alt="La Caverna" width="100%">
-
-**🌍 Sitio web:** [lacavernachile.cl](https://lacavernachile.cl)  
-**🧾 Descripción:**  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 TRC Máquinas
-
-<img src="/screenshots/TRC.png" alt="TRC Máquinas" width="100%">
-
-**🌍 Sitio web:** [trcmaquinas.cl](https://trcmaquinas.cl)  
-**🧾 Descripción:**  
-Proyecto para TRC Máquinas, una maestranza emergente ubicada en Antofagasta, especializada en reparaciones mecánicas e hidráulicas, mecanizado de componentes y fabricación de estructuras metálicas.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Valintec40
-
-<img src="/screenshots/Valintec.png" alt="Valintec40" width="100%">
-
-**🌍 Sitio web:** [valintec40.com](valintec40.com)  
-**🧾 Descripción:**  
-Proyecto para Valintec 4.0, empresa chilena especializada en soluciones industriales avanzadas. La plataforma destaca su oferta de válvulas, actuadores, instrumentación y servicios de ingeniería para sectores como minería, celulosa, energía y tratamiento de aguas.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Pestañamania
-<img src="/screenshots/Pestaniamania.png" alt="Pestañamania" width="100%">
-
-**🌍 Sitio web:** [pestañamania.cl](https://pestañamania.cl)  
-**🧾 Descripción:**  
-Proyecto para Pestañamania, tienda online especializada en productos de belleza y cuidado personal, con énfasis en extensiones y tratamientos de pestañas.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Transportes y Logística
-
-<img src="/screenshots/TransportesyLogistica.png" alt="Transportes y Logística" width="100%">
-
-**🌍 Sitio web:** [transportesylogistica.cl](https://transportesylogistica.cl)  
-**🧾 Descripción:**  
-Proyecto para Transportes y Logística, empresa dedicada a servicios de transporte de carga y logística en Chile.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Tornería Lidmar
-
-<img src="/screenshots/Lidmar.png" alt="Tornería Lidmar" width="100%">
-
-**🌍 Sitio web:** [https://tornerialidmar.cl](https://tornerialidmar.cl)  
-**🧾 Descripción:**  
-Proyecto para Tornería Lidmar, empresa especializada en mecanizado y fabricación de piezas industriales.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 RPI
-
-<img src="/screenshots/RPI.png" alt="RPI" width="100%">
-
-**🌍 Sitio web:** [rpichile.cl](https://rpichile.cl)  
-**🧾 Descripción:**  
-Proyecto para RPI Chile, empresa especializada en la venta y arriendo de equipos industriales para soldaduras plásticas, fitting de HDPE y herramientas para levantamiento de tubos lisos.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Cardiopreparado
-
-<img src="/screenshots/Cardiopreparado.png" alt="Cardiopreparado" width="100%">
-
-**🌍 Sitio web:** [cardiopreparado.cl](https://cardiopreparado.cl)  
-**🧾 Descripción:**  
-Proyecto para Cardiopreparado, empresa chilena dedicada a la venta y capacitación en uso de desfibriladores automáticos (DEA) y equipos de emergencia.
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Blondina
-
-<img src="/screenshots/Blondina.png" alt="Blondina" width="100%">
-
-**🌍 Sitio web:** [blondina.cl](https://blondina.cl)  
-**🧾 Descripción:**  
-Proyecto para Blondina, tienda online de moda femenina que ofrece ropa y accesorios modernos.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Containerland
-
-<img src="/screenshots/Containerland.png" alt="Containerland" width="100%">
-
-**🌍 Sitio web:** [containerland.cl](https://containerland.cl)  
-**🧾 Descripción:**  
-Proyecto para Containerland, empresa chilena especializada en la fabricación y venta de contenedores modulares de acero galvanizado.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 FITSTORE
-
-<img src="/screenshots/Fit4Life.png" alt="FITSTORE" width="100%">
-
-**🌍 Sitio web:** [fitstore.cl](https://fitstore.cl)  
-**🧾 Descripción:**  
-Proyecto para FitStore, Tienda especializada en suplementos deportivos, nutrición y accesorios para fitness, comprometida con apoyar un estilo de vida saludable y activo mediante productos de calidad.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 LimpiaLimpio
-
-<img src="/screenshots/LimpiaLimpio.png" alt="LimpiaLimpio" width="100%">
-
-**🌍 Sitio web:** [limpialimpio.cl](https://limpialimpio.cl)  
-**🧾 Descripción:**  
-Proyecto para Limpia Limpio, Empresa chilena dedicada a la venta de productos de limpieza y aseo, ofreciendo una amplia gama de soluciones para hogares, empresas e industrias que buscan calidad y eficiencia.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Hippocampus Resort
-
-<img src="/screenshots/HippocampusResort.png" alt="Hippocampus Resort" width="100%">
-
-**🌍 Sitio web:** [hippocampus.cl](https://www.hippocampus.cl)  
-**🧾 Descripción:**  
-Proyecto para Hippocampus Resort, Hippocampus Resort es un exclusivo complejo turístico ubicado frente a una de las playas de Concón, en la región de Valparaíso.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Maxilofacial Santiago
-
-<img src="/screenshots/MaxilofacialSantiago.png" alt="Maxilofacial Santiago" width="100%">
-
-**🌍 Sitio web:** [maxilosantiago.cl](https://maxilosantiago.cl)  
-**🧾 Descripción:**  
-Proyecto para Maxilofacial Santiago, clínica especializada en cirugía bucal y maxilofacial, ubicada en Providencia, Santiago.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Megacorp Ltda
-
-<img src="/screenshots/Megacorp.png" alt="Megacorp Ltda" width="100%">
-
-**🌍 Sitio web:** [megacorpltda.cl](https://megacorpltda.cl)  
-**🧾 Descripción:**  
-Proyecto para Megacor Ltda, empresa chilena dedicada a la comercialización de productos industriales, con especialización en correas industriales.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Conjunto
-
-<img src="/screenshots/Conjunto.png" alt="Conjunto" width="100%">
-
-**🌍 Sitio web:** [conjuntochile.cl](https://conjuntochile.cl)  
-**🧾 Descripción:**  
-Proyecto para Conjunto Chile. Una consultora estratégica chilena, especializada en ofrecer servicios integrales para el desarrollo sostenible de proyectos.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Comercial Ocaranza
-
-<img src="/screenshots/Ocaranza.png" alt="Comercial Ocaranza" width="100%">
-
-**🌍 Sitio web:** [comercialocaranza.cl](https://comercialocaranza.cl)  
-**🧾 Descripción:**  
-Proyecto para Comercial Ocaranza. Portal de una empresa familiar con 40+ años en Coquimbo, Chile, especializada en equipos marítimos, buceo y maquinaria de fuerza.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
-### 🌐 Andaur & Benacho
-<img src="/screenshots/Andaur-Benacho.png" alt="Andaur y Benacho" width="100%">
-
-**🌍 Sitio web:** [https://comercialandaurybenacho.cl](https://comercialandaurybenacho.cl)  
-**🧾 Descripción:**  
-Proyecto para Andaur y Benacho Agro Comercial Limitada, una empresa chilena con sede en Calama (Región de Antofagasta) que combina actividades de comercio de alimentos y transporte de carga.
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor">
-  <img src="https://img.shields.io/badge/-SEO-0b75c9?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
-  <img src="https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/-Responsive%20Design-44b78b?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
-</p>
-
+## 📌 Sitios Web Realizados
+
+<hr>
+
+<h3>🌐 <a href="https://ficg.ucn.cl">Universidad Católica Del Norte - UCN</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
+</div>
+<img src="screenshots/UCN.png" alt="UCN" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para la Facultad de Ingeniería y Ciencias Geológicas de la UCN. El desarrollo se centró en optimizar la arquitectura de la información para presentar de forma clara su amplia oferta académica, investigaciones y su vinculación estratégica con la industria de la zona norte.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://www.umce.cl">UMCE (Univ. Met. de Ciencias de la Educación)</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Soporte-%23333333.svg?style=for-the-badge&logo=helpdesk&logoColor=white">
+  <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
+</div>
+<img src="screenshots/UMCE.png" alt="UMCE" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para la Universidad Metropolitana de Ciencias de la Educación (UMCE). Se brindó soporte técnico continuo, mantención estructural de la plataforma y optimización SEO del motor de búsqueda interno para facilitar el acceso a la información institucional.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="#">CUECH (Consorcio de Universidades del Estado)</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/UI/UX-%23FF4F8B.svg?style=for-the-badge&logo=adobe-xd&logoColor=white">
+</div>
+<img src="screenshots/CUECH.png" alt="CUECH" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para el Consorcio de Universidades del Estado de Chile (CUECH). Consistió en el diseño y desarrollo de un Memorial Digital conmemorativo, priorizando una interfaz sobria, respetuosa y completamente responsiva.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://ficg.ucn.cl/doctorado-en-ingenieria-sustentable/">Doctorado en Ingeniería Sustentable</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Landing-%2344b78b.svg?style=for-the-badge&logo=google-chrome&logoColor=white">
+</div>
+<img src="screenshots/DIS.png" alt="Doctorado" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para el programa de Doctorado en Ingeniería Sustentable de la UCN. Se creó una landing page atractiva y optimizada para la captación de postulantes, destacando su enfoque académico interdisciplinario y compromiso medioambiental.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://armmic.cl">Congreso Internacional ARMMIC</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Eventos-%23E34F26.svg?style=for-the-badge&logo=eventbrite&logoColor=white">
+</div>
+<img src="screenshots/ARMMIC.png" alt="ARMMIC" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para el Applied Research in Mining and Metallurgy International Congress (ARMMIC). Plataforma oficial desarrollada para gestionar la información del evento, perfiles de ponentes internacionales y el proceso completo de inscripción.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://tecel-ta.cl">TECEL-TA</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/B2B-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
+</div>
+<img src="screenshots/tecelta.png" alt="TECEL-TA" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para TECEL-TA, empresa chilena especializada en servicios de ingeniería y mantenimiento eléctrico para la gran minería. El sitio destaca su trayectoria corporativa, servicios especializados y acreditaciones clave para el sector industrial.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://brimut.cl">Brimut</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Conversión-%2344b78b.svg?style=for-the-badge&logo=google-ads&logoColor=white">
+</div>
+<img src="/screenshots/Brimut.png" alt="Brimut" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para BRIMUT SpA, empresa enfocada en el transporte de pasajeros y arriendo de vehículos. Se priorizó un diseño orientado a la conversión comercial, con una navegación rápida e intuitiva para clientes corporativos.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://ikono.cl">IKONO</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF4F8B.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white">
+</div>
+<img src="/screenshots/ikono.png" alt="IKONO" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para IKONO, consolidada oficina de arquitectura. Se desarrolló un portafolio digital inmersivo y minimalista diseñado específicamente para dar un gran protagonismo visual a sus proyectos habitacionales e industriales.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://adisep.cl">Adisep</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Seguridad-%23333333.svg?style=for-the-badge&logo=lock&logoColor=white">
+</div>
+<img src="/screenshots/Adisep.png" alt="Adisep" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para ADISEP, empresa especializada en seguridad privada. Se estructuró una web corporativa seria y confiable que detalla sus servicios de vigilancia y capacitación OS10, optimizando los formularios de contacto.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://lacavernachile.cl">La Caverna</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WooCommerce-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+  <img src="https://img.shields.io/badge/E--commerce-%2344b78b.svg?style=for-the-badge&logo=shopify&logoColor=white">
+</div>
+<img src="/screenshots/Caverna.png" alt="La Caverna" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para La Caverna. Desarrollo integral de una tienda online (E-commerce) orientada al retail minorista, incorporando un carrito de compras ágil, gestión dinámica de inventario y un diseño visual enfocado en maximizar ventas.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://trcmaquinas.cl">TRC Máquinas</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Industrial-%23E34F26.svg?style=for-the-badge&logo=engine&logoColor=white">
+  <img src="https://img.shields.io/badge/Antofagasta-%230b75c9.svg?style=for-the-badge&logo=google-maps&logoColor=white">
+</div>
+<img src="/screenshots/TRC.png" alt="TRC Máquinas" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para TRC Máquinas, maestranza ubicada en Antofagasta. El sitio expone su capacidad técnica corporativa en reparaciones mecánicas, oleohidráulica y fabricación de estructuras metálicas para la industria local.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://valintec40.com">Valintec 4.0</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Catalogo-B2B-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+  <img src="https://img.shields.io/badge/Mineria-%23E34F26.svg?style=for-the-badge&logo=probot&logoColor=white">
+</div>
+<img src="/screenshots/Valintec.png" alt="Valintec40" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Valintec 4.0, especialistas en soluciones industriales avanzadas. La plataforma funciona como un extenso catálogo técnico de válvulas e instrumentación dirigido a ingenieros del sector minero, energía y aguas.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://pestañamania.cl">Pestañamania</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/WooCommerce-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+  <img src="https://img.shields.io/badge/Retail-%23FF4F8B.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</div>
+<img src="/screenshots/Pestaniamania.png" alt="Pestañamania" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Pestañamania, tienda online B2C del sector belleza. Se implementó un E-commerce completo para la venta de insumos y extensiones de pestañas, con gestión de inventario, pagos en línea y un estilo visual muy cuidado.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://transportesylogistica.cl">Transportes y Logística</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Logistica-%230b75c9.svg?style=for-the-badge&logo=google-maps&logoColor=white">
+  <img src="https://img.shields.io/badge/Corporativo-%23333333.svg?style=for-the-badge&logo=enterprise&logoColor=white">
+</div>
+<img src="/screenshots/TransportesyLogistica.png" alt="Transportes y Logística" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Transportes y Logística, empresa de carga terrestre nacional. El diseño institucional se enfocó en facilitar el contacto comercial rápido y detallar la flota disponible para servicios de transporte B2B.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://tornerialidmar.cl">Tornería Lidmar</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Torneria-%23E34F26.svg?style=for-the-badge&logo=engine&logoColor=white">
+  <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
+</div>
+<img src="/screenshots/Lidmar.png" alt="Tornería Lidmar" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Tornería Lidmar. Se construyó una plataforma digital que resalta su capacidad operativa y experiencia en mecanizado de precisión, tornería y fabricación a medida de piezas industriales.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://rpichile.cl">RPI Chile</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Arriendo-Venta-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+  <img src="https://img.shields.io/badge/HDPE-%23E34F26.svg?style=for-the-badge&logo=probot&logoColor=white">
+</div>
+<img src="/screenshots/RPI.png" alt="RPI" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para RPI Chile. Se desarrolló un catálogo web interactivo para potenciar la comercialización y el arriendo de equipos industriales especializados en soldaduras plásticas y termofusión de tuberías HDPE.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://cardiopreparado.cl">Cardiopreparado</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Salud-%23D14836.svg?style=for-the-badge&logo=medscape&logoColor=white">
+  <img src="https://img.shields.io/badge/Capacitación-%23333333.svg?style=for-the-badge&logo=coursera&logoColor=white">
+</div>
+<img src="/screenshots/Cardiopreparado.png" alt="Cardiopreparado" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Cardiopreparado, empresa orientada a la salud y prevención de emergencias. El sitio facilita la venta de desfibriladores (DEA) y la inscripción a capacitaciones corporativas de primeros auxilios.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://blondina.cl">Blondina</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Moda-%23FF4F8B.svg?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/WooCommerce-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+</div>
+<img src="/screenshots/Blondina.png" alt="Blondina" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Blondina, marca chilena de moda femenina. E-commerce desarrollado con una estética visual vanguardista, destacando colecciones de ropa, integrando pasarelas de pago y optimizando la experiencia móvil.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://containerland.cl">Containerland</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Modulos-%23E34F26.svg?style=for-the-badge&logo=air-china&logoColor=white">
+  <img src="https://img.shields.io/badge/Venta-%2344b78b.svg?style=for-the-badge&logo=google-ads&logoColor=white">
+</div>
+<img src="/screenshots/Containerland.png" alt="Containerland" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Containerland, fabricantes chilenos de contenedores modulares. El sitio muestra su catálogo de módulos habitacionales de acero galvanizado para oficinas y bodegas, facilitando la cotización directa.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://fitstore.cl">FITSTORE</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Suplementos-%23D14836.svg?style=for-the-badge&logo=myfitnesspal&logoColor=white">
+  <img src="https://img.shields.io/badge/Checkout-%2344b78b.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+</div>
+<img src="/screenshots/Fit4Life.png" alt="FITSTORE" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para FITSTORE, tienda online dedicada a la suplementación y nutrición deportiva. Se optimizó la arquitectura por categorías de entrenamiento y se simplificó el proceso de checkout para mejorar la conversión.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://limpialimpio.cl">LimpiaLimpio</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Aseo-Industrial-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Catálogo-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+</div>
+<img src="/screenshots/LimpiaLimpio.png" alt="LimpiaLimpio" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Limpia Limpio, proveedores de insumos de aseo industrial y hogar. Se estructuró un catálogo digital ordenado que facilita la navegación por líneas de productos y la solicitud de presupuestos B2B.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://www.hippocampus.cl">Hippocampus Resort</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Turismo-%2344b78b.svg?style=for-the-badge&logo=tripadvisor&logoColor=white">
+  <img src="https://img.shields.io/badge/Corporativo-%23333333.svg?style=for-the-badge&logo=enterprise&logoColor=white">
+</div>
+<img src="/screenshots/HippocampusResort.png" alt="Hippocampus Resort" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Hippocampus Resort, prestigioso complejo turístico en Concón. Web corporativa diseñada para proyectar la calidad de sus instalaciones, promover servicios hoteleros y captar reservas directas.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://maxilosantiago.cl">Maxilofacial Santiago</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Medica-%23D14836.svg?style=for-the-badge&logo=medscape&logoColor=white">
+  <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
+</div>
+<img src="/screenshots/MaxilofacialSantiago.png" alt="Maxilofacial Santiago" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Maxilofacial Santiago, clínica odontológica especializada. La plataforma comunica de manera clara sus tratamientos quirúrgicos y cuenta con herramientas de accesibilidad para la reserva de horas online.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://megacorpltda.cl">Megacorp Ltda</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Insumos-%23E34F26.svg?style=for-the-badge&logo=probot&logoColor=white">
+  <img src="https://img.shields.io/badge/B2B-%23333333.svg?style=for-the-badge&logo=enterprise&logoColor=white">
+</div>
+<img src="/screenshots/Megacorp.png" alt="Megacorp Ltda" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Megacorp Ltda, importadora y comercializadora de suministros industriales. El sitio se organizó como un catálogo técnico riguroso, enfocado principalmente en correas de transmisión de alta resistencia.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://conjuntochile.cl">Conjunto</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Consultora-%23333333.svg?style=for-the-badge&logo=enterprise&logoColor=white">
+  <img src="https://img.shields.io/badge/Sustentable-%2344b78b.svg?style=for-the-badge&logo=leaf&logoColor=white">
+</div>
+<img src="/screenshots/Conjunto.png" alt="Conjunto" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Conjunto Chile, destacada consultora estratégica. Se diseñó un sitio corporativo que refleja su enfoque analítico en el desarrollo sostenible, relacionamiento comunitario y viabilidad de proyectos industriales.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://comercialocaranza.cl">Comercial Ocaranza</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Maritimo-%230b75c9.svg?style=for-the-badge&logo=google-earth&logoColor=white">
+  <img src="https://img.shields.io/badge/Trayectoria-%23FFD700.svg?style=for-the-badge&logo=goldenline&logoColor=black">
+</div>
+<img src="/screenshots/Ocaranza.png" alt="Comercial Ocaranza" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Comercial Ocaranza, empresa familiar de Coquimbo. El desarrollo visibiliza digitalmente su sólida trayectoria de 40 años comercializando equipos marítimos, insumos de buceo y maquinaria pesada.
+</div>
+
+<hr>
+
+<h3>🌐 <a href="https://comercialandaurybenacho.cl">Andaur & Benacho</a></h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Agro-%2344b78b.svg?style=for-the-badge&logo=leaf&logoColor=white">
+  <img src="https://img.shields.io/badge/Logistica-%230b75c9.svg?style=for-the-badge&logo=google-maps&logoColor=white">
+</div>
+<img src="/screenshots/Andaur-Benacho.png" alt="Andaur y Benacho" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
+<div style="line-height: 1.4;">
+  <strong>🧾 Descripción:</strong> Proyecto realizado para Andaur & Benacho Agro Comercial. Se logró integrar de forma cohesionada en una sola plataforma sus dos principales líneas operativas en Calama: el comercio de productos agrícolas y la logística de transporte de carga.
+</div>
+
+<hr>
 
 ## 🤝 ¿Hablamos?
 
-Estoy disponible para:
-- Desarrollo de sitios web a medida
-- Rediseños y mejoras de sitios existentes
-- Asesoría en WordPress y optimización
+- **Desarrollo:** Sitios web escalables y plataformas a medida.
+- **Rediseños:** Mejoras de rendimiento (WPO) y modernización UI.
+- **Asesoría:** Experto en WordPress, Elementor y SEO.
 
-📧 **Email:** hgdevr@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/hgdevs](https://www.linkedin.com/in/hgdevs/)
-
+📧 [hgdevr@gmail.com](mailto:hgdevr@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/hgdevs/)
 
 <p align="center">
-  Hecho con 💙 | Última actualización: Mayo 2025
+  Hecho con 💙 en Chile | 2026
 </p>
