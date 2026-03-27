@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Hola, soy **Omar Hurtado**, desarrollador web radicado en Chile. Me especializo en la creación de plataformas digitales escalables, funcionales y orientadas a la experiencia de usuario. 
+Hola, soy **Omar Hurtado**, desarrollador web. Me especializo en la creación de plataformas digitales escalables, funcionales y orientadas a la experiencia de usuario. 
 
 Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informática** me permite abordar los proyectos desde el diseño visual hasta la optimización técnica para SEO y rendimiento (WPO).
 
