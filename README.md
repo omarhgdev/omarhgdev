@@ -52,20 +52,6 @@ Mi formación como Técnico en Telecomunicaciones e **Ingeniería en Informátic
 
 <hr>
 
-<h3>🌐 <a href="https://www.umce.cl">Universidad Metropolitana de Ciencias de la Educación (UMCE)</a></h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white">
-  <img src="https://img.shields.io/badge/Soporte-%23333333.svg?style=for-the-badge&logo=helpdesk&logoColor=white">
-  <img src="https://img.shields.io/badge/SEO-%230b75c9.svg?style=for-the-badge&logo=google&logoColor=white">
-</div>
-<img src="screenshots/UMCE.png" alt="UMCE" width="100%" style="border-radius: 8px; margin-bottom: 5px;">
-<div style="line-height: 1.4;">
-  <strong>🧾 Descripción:</strong> Proyecto realizado para la Universidad Metropolitana de Ciencias de la Educación (UMCE). Se brindó soporte técnico continuo, mantención estructural de la plataforma y optimización SEO del motor de búsqueda interno para facilitar el acceso a la información institucional.
-</div>
-
-<hr>
-
 <h3>🌐 <a href="#">Consorcio de Universidades del Estado (CUECH)</a></h3>
 <div align="left">
   <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=wordpress&logoColor=white">
